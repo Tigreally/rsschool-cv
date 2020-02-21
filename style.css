@@ -1,0 +1,10 @@
+#pic {
+    float: left;
+}
+#text {
+    margin-left: 180px;
+}
+body {
+        width: 1024px;
+        margin: 0 auto;
+   }
