@@ -1,1 +1,1 @@
-[rsschool-cv](https://your-github-account.github.io/rsschool-cv/cv)
+[rsschool-cv](https://Tigreally.github.io/rsschool-cv/cv)
